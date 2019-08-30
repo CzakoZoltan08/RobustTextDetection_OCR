@@ -1,0 +1,6 @@
+temporary-road-sign_0.png 		- MSER mser(8, 100, 500, 0.25, 0.2, 200, 1.01, 0.003, 5);		solidity >= 0.01 && hull_area > 200 | 0.4, 1.0 
+yourtext.jpg 					- MSER mser(8, 20, 500, 0.25, 0.2, 200, 1.01, 0.003, 5);		solidity >= 0.01 && hull_area > 50  | 0.2, 1.2
+textpure.png					- MSER mser(8, 20, 500, 0.25, 0.2, 200, 1.01, 0.003, 5);		solidity >= 0.01 && hull_area > 50  | 0.2, 1.2
+Ryanair%E2%80%AC-oferta-de-senzatie-pe-ruta-Bucuresti-Timisoara-si-retur.jpg - MSER mser(8, 100, 420, 0.25, 0.2, 200, 1.01, 0.003, 5); 	solidity >= 0.01 && hull_area > 400 | 0.3, 3.0
+TestText.png					- MSER mser(8, 100, 420, 0.25, 0.2, 200, 1.01, 0.003, 5); 	solidity >= 0.01 && hull_area > 400 | 0.3, 3.0
+
